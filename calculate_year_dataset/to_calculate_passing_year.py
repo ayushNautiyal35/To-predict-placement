@@ -55,7 +55,7 @@ data["Passing Year"].value_counts()
 
 data.info()
 
-data.dropna(subset=['Passing Year'],inplace=True)
+
 
 data
 
